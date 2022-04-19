@@ -15,11 +15,11 @@ The folder [`Codes`](/Codes) contains the programs to replicate the empirical re
 ***Step 1:*** Prepare the [`Data/raw_data`](/Data/raw_data/) for the estimation routines. This can be done by running the programs [**AHLR_preparation_data.R**](/Codes/AHLR_data_preparation.R) and [**AS_data_preparation.R**](/Codes/AS_data_preparation.R), respectively. The output is stored in the [`Data/processed_data`](Data/processed_data). The processed data is used by the estimation programs. For convenience, the prepared data is already stored in [`Data/processed_data/AHLR`](Data/processed_data/AHLR) and [`Data/processed_data/AS`](Data/processed_data/AS).
 
 ***Step 2:*** Estimate the Multiple Price Lists and Convex Menus models:
-- Table 1, Table 3, Table 7, Figure 1, and Figure 2 are produced by [**AHLR_estimation.R**](/Codes/AHLR_estimation.R)
+- Table 1, Table 3, Table 7, Table 9, Figure 1, and Figure 2 are produced by [**AHLR_estimation.R**](/Codes/AHLR_estimation.R)
 - Table 2, Table 4 and Figure 3 are produced by [**AS_estimation.R**](/Codes/AS_estimation.R)
 - Table 5 is produced by [**AHLR_estimation_tremble.R**](/Codes/AHLR_estimation_tremble.R)
 - Table 6 is produced by [**AS_estimation_tremble.R**](/Codes/AS_estimation_tremble.R)
-- Table 7 is produced by [**AHLR_estimation_hyperbolic.R**](/Codes/AHLR_estimation_hyperbolic.R)
+- Table 8 is produced by [**AHLR_estimation_hyperbolic.R**](/Codes/AHLR_estimation_hyperbolic.R)
 
 The estimation output for the tables is stored in the folder [`Output/estimates`](/Output/estimates). Figures are stored in the [`Output/figures`](/Output/figures) folder. 
 

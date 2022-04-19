@@ -1,6 +1,6 @@
 # Supplementary Material: </br> Random Models for the Joint Treatment of Risk and Time Preferences
 
-This repository contains the supplementary material for the paper "Random Models for the Joint Treatment of Risk and Time Preferences" (2022) by Jose Apesteguia, Miguel A. Ballester and Ángelo Gutierrez-Daza.
+This repository contains the supplementary material for the paper "Random Discounted Expected Utility" (2022) by Jose Apesteguia, Miguel A. Ballester and Ángelo Gutierrez-Daza.
 
 ### Overview
 
